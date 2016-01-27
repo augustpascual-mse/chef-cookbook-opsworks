@@ -1,0 +1,6 @@
+name 'app'
+maintainer 'August Pascual'
+maintainer_email 'augustpascual.mse@gmail.com'
+license 'WTFPL '
+description 'Installs/Configures app'
+version '1.0'
